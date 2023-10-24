@@ -1,6 +1,6 @@
 # Pick it shop
 
-A new Flutter project.
+an application that can run on both Android and apple devices
 
 ## Getting Started
 
