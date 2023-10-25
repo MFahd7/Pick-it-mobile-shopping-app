@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "108140672528",
+    "project_id": "pick-it-db",
+    "storage_bucket": "pick-it-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108140672528:android:22acee6744d107a32ffc95",
+        "android_client_info": {
+          "package_name": "com.mycompany.pickit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108140672528-m8b0sgai2gr5r8uo6cq6vqsc8epu50ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pickit",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "108140672528-6an7m0qplcjrvuuok6r7er7ltcgiufkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6T_zF3fWFFjfQ4ZUn3Sq_09WBPJ2bMV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108140672528-6an7m0qplcjrvuuok6r7er7ltcgiufkg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108140672528-dlq1l76eqiror31tve1cvfd7o53ge32d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.pickit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108140672528:android:795000b2fc3223d52ffc95",
+        "android_client_info": {
+          "package_name": "com.mycompany.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108140672528-6an7m0qplcjrvuuok6r7er7ltcgiufkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6T_zF3fWFFjfQ4ZUn3Sq_09WBPJ2bMV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108140672528-6an7m0qplcjrvuuok6r7er7ltcgiufkg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108140672528-dlq1l76eqiror31tve1cvfd7o53ge32d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.pickit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
